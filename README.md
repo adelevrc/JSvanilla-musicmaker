@@ -1,1 +1,3 @@
-# tuto-musicmaker-jsvanilla
+#  Music Maker in JS vanilla
+
+I think Janis Joplin started with this tool ... 
